@@ -7,8 +7,8 @@
 * Some courses I've taken
 * And most importantly, my interests and who I am!
 
-  *Made Using, React, Tailwind, and JS*
-
+*Made Using, React, Tailwind, and JS*
+*NOT DESIGNED FOR MOBILE USERS*
 
 The website can be found [here](https://karthiu.github.io/)
 
