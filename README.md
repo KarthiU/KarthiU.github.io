@@ -1,8 +1,10 @@
-**Personal Website**
+# My Personal Portfolio 
+**Here, you will find the website that I created about me! It includes:**
 
-**This is my personal website, where you can find more info about me, including:**
-- Projects I've done
-- Courses I've taken
-- My work experience
-- My Socials
-- And most importantly, who I am!
+* My Projects
+* My Past Job Experiences
+* My Socials
+* Some courses I've taken
+* And most importantly, my interests and who I am!
+
+The website can be found [here](https://karthiu.github.io/)
