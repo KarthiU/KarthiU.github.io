@@ -1,4 +1,4 @@
-**Personal Website#**
+**Personal Website**
 
 **This is my personal website, where you can find more info about me, including:**
 - Projects I've done
